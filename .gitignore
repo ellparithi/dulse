@@ -1,0 +1,13 @@
+# node
+node_modules/
+.env
+
+# vite
+dist/
+.vite/
+
+# Mac
+.DS_Store
+
+# system logs
+*.log
